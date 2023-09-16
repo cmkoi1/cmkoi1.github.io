@@ -1,6 +1,7 @@
 # The Site Configuration
 
-remote_theme : mmistakes/minimal-mistakes
+#cotes2020의 jekyll-theme-chirpy 저장소 테마 가져오기
+remote_theme : cotes2020/jekyll-theme-chirpy
 
 # Import the theme
 theme: jekyll-theme-chirpy
